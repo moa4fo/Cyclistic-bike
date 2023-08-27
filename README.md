@@ -66,8 +66,6 @@ You will produce a report with the following deliverables:
 5. Supporting visualizations and key findings
 6. Your top three recommendations based on your analysis.
 
-# Dataset:
-https://drive.google.com/drive/folders/1WwZ63aJHbr8NBRWwGSyRIdpJCHJcCXiC?usp=share_link
 
 # Performance Evaluation:
 # 1. Dashboard design:
