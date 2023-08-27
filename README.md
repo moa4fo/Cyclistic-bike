@@ -44,13 +44,13 @@ Now that you have performed your analysis and gained some insights into your dat
 4. Refine your data visualization by applying deep attention to detail.
 
 # Approach:
-## Analyze rider data:
+## 1. Analyze rider data:
 Collect and analyze data on how riders use Cyclistic bikes. This could include information on the frequency and duration of rides, as well as the types of bikes used.
-## Segment riders:
+## 2. Segment riders:
 Segment riders into casual riders and annual members based on their ride behavior, membership type, and usage patterns. This will allow you to identify differences in how the two groups use Cyclistic bikes.
-## Create data visualizations:
+## 3. Create data visualizations:
 Create compelling data visualizations that highlight key differences between casual riders and annual members and make it easy for executives to understand the insights. The visuals should involve the number of rides per day, per week and per month and also visualize for the total trip duration in a week.
-## Get Insights:
+## 4. Get Insights:
 After creating visualisations, upload your work in tableau website and make a report or presentation on key findings.
 
 # Results:
